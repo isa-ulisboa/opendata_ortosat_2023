@@ -5,7 +5,7 @@ This data set is available for visualization through WMS using URL https://ortos
 
 In addition, ISA has been given access to the platform [https://ortos.dgterritorio.gov.pt/ortosat2023/](https://ortos.dgterritorio.gov.pt/ortosat2023/) to download the composites in `tif` format (only true color and false color composites in digital 0-255 units, not surface reflectance). 
 
-To request images, you need to create a txt file called `ortosat2003_urls.txt` with a list of URLs (one URL per line, no empty lines, and no extra characters). Each URL corresponds to a 'section' in [https://ortos.dgterritorio.gov.pt/ortosat2023/](https://ortos.dgterritorio.gov.pt/ortosat2023/) and to either 'CorVerdadeira' or 'FalsaCor'. The following is an example of a `ortosat2003_urls.txt` file for two URLs:
+To request images, you need to create a txt file called `ortosat2023_urls.txt` with a list of URLs (**one URL per line, no empty lines, no comments and no extra characters**). Please follow these guidelines: if the format of the file is not correct, your request will not be processed. Each URL corresponds to a 'section' in [https://ortos.dgterritorio.gov.pt/ortosat2023/](https://ortos.dgterritorio.gov.pt/ortosat2023/) and to either 'CorVerdadeira' or 'FalsaCor'. The following is an example of a `ortosat2023_urls.txt` file for two URLs:
 ```
 https://dgterritorio.sharepoint.com/sites/EXT-ORTOSAT2023/_layouts/15/download.aspx?SourceUrl=/sites/EXT-ORTOSAT2023/Documentos%20Partilhados/1_OrtoSat2023_CorVerdadeira/1_Seccoes_OrtoSat2023_CorVerdadeira/Seccoes_2800/OrtoSat2023_2893_CorVerdadeira.tif
 https://dgterritorio.sharepoint.com/sites/EXT-ORTOSAT2023/_layouts/15/download.aspx?SourceUrl=/sites/EXT-ORTOSAT2023/Documentos%20Partilhados/2_OrtoSat2023_FalsaCor/1_Seccoes_OrtoSat2023_FalsaCor/Seccoes_3000/OrtoSat2023_3050_FalsaCor.tif
@@ -13,7 +13,9 @@ https://dgterritorio.sharepoint.com/sites/EXT-ORTOSAT2023/_layouts/15/download.a
 
 To obtain the URLs you can use the interactive map at [https://ortos.dgterritorio.gov.pt/ortosat2023/](https://ortos.dgterritorio.gov.pt/ortosat2023/) and copy each link for the sections and color composites that you would like to access.
 
-The request should be addressed to Manuel Campagnolo (mlc@isa.ulisboa.pt). In your formal request, you need to indicate what is your connection to ISA and you need to declare that you will use the data in accordance to the rules in (https://www.dgterritorio.gov.pt/sites/default/files/ficheiros-dgt/Termo_de_utilizacao-OrtoSat2023.pdf).
+The request should be addressed to Manuel Campagnolo (mlc@isa.ulisboa.pt) with subject *ortosat2023 request* and file `ortosat2023_urls.txt` attached. In your emails, you also need to indicate (1) what is your association to ISA (student, researcher, professor, etc), (2) what is your `edu.lisboa.pt` email and (3) you need to declare that you will use the data in accordance to the rules in [https://www.dgterritorio.gov.pt/sites/default/files/ficheiros-dgt/Termo_de_utilizacao-OrtoSat2023.pdf](https://www.dgterritorio.gov.pt/sites/default/files/ficheiros-dgt/Termo_de_utilizacao-OrtoSat2023.pdf). Then, you will receive a link of a shared folder from which you will be able to download the files.
+
+---
 
 The metadata at RNDG is the following:
 - OrtoSat 30 cm - Portugal Continental – 2023
