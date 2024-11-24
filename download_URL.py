@@ -2,7 +2,7 @@ import requests
 from http.cookiejar import MozillaCookieJar
 import os
 
-file_path = 'links_ortsat2023_jesus.txt'
+file_path = 'ortsat2023_urls.txt'
 output_dir = './ortosat_tifs'
 
 # Load cookies from browser export
