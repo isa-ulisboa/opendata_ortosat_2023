@@ -11,9 +11,11 @@ https://dgterritorio.sharepoint.com/sites/EXT-ORTOSAT2023/_layouts/15/download.a
 https://dgterritorio.sharepoint.com/sites/EXT-ORTOSAT2023/_layouts/15/download.aspx?SourceUrl=/sites/EXT-ORTOSAT2023/Documentos%20Partilhados/2_OrtoSat2023_FalsaCor/1_Seccoes_OrtoSat2023_FalsaCor/Seccoes_3000/OrtoSat2023_3050_FalsaCor.tif
 ```
 
-To obtain the URLs you can use the interactive map at [https://ortos.dgterritorio.gov.pt/ortosat2023/](https://ortos.dgterritorio.gov.pt/ortosat2023/) and copy each link for the sections and color composites that you would like to access.
+To obtain the URLs you can use the interactive map at [https://ortos.dgterritorio.gov.pt/ortosat2023/](https://ortos.dgterritorio.gov.pt/ortosat2023/) and copy the link for each section and color composite that you would like to access. For that, select a single section and right click on either 'cor verdadeira descarga' ou 'falsa cor descarga' to open the dropdown menu displayed in the figure below.
 
-The request should be addressed to Manuel Campagnolo (mlc@isa.ulisboa.pt) with subject *ortosat2023 request* and file `ortosat2023_urls.txt` attached. In your emails, you also need to indicate (1) what is your association to ISA (student, researcher, professor, etc), (2) what is your `edu.lisboa.pt` email and (3) you need to declare that you will use the data in accordance to the rules in [https://www.dgterritorio.gov.pt/sites/default/files/ficheiros-dgt/Termo_de_utilizacao-OrtoSat2023.pdf](https://www.dgterritorio.gov.pt/sites/default/files/ficheiros-dgt/Termo_de_utilizacao-OrtoSat2023.pdf). Then, you will receive a link of a shared folder from which you will be able to download the files.
+<img src="ortosat2023_exemplo_copy_link.png" alt="alt text"  width=400>
+
+The request should be addressed to Manuel Campagnolo (mlc@isa.ulisboa.pt) with subject **ortosat2023 request** and file `ortosat2023_urls.txt` attached. In your emails, you also need to indicate (1) what is your association to ISA (student, researcher, professor, etc), (2) what is your `edu.lisboa.pt` email and (3) you need to declare that you will use the data in accordance to the rules in [https://www.dgterritorio.gov.pt/sites/default/files/ficheiros-dgt/Termo_de_utilizacao-OrtoSat2023.pdf](https://www.dgterritorio.gov.pt/sites/default/files/ficheiros-dgt/Termo_de_utilizacao-OrtoSat2023.pdf). Then, you will receive a link of a shared folder from which you will be able to download the files.
 
 ---
 
